@@ -87,3 +87,4 @@ if __name__ == "__main__":
     print('End func %s' % end_func)
     print('Difference: %s' % (end_func - start_func))
     print('please open the file result.csv')
+    # Ушло около 6-8 часов
